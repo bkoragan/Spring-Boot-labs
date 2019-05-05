@@ -8,9 +8,7 @@ security:
 
 facebook:
   client:
-    clientId: 320046055342441
-    clientSecret: 317809bae5fc697b6d2c7af0a57e422e
-    accessTokenUri: https://graph.facebook.com/oauth/access_token
+    clientId: 1x    clientSecret: 1234    accessTokenUri: https://graph.facebook.com/oauth/access_token
     userAuthorizationUri: https://www.facebook.com/dialog/oauth
     tokenName: oauth_token
     authenticationScheme: query
@@ -19,9 +17,7 @@ facebook:
     userInfoUri: https://graph.facebook.com/me
 github:
   client:
-    clientId: bd1c0a783ccdd1c9b9e4
-    clientSecret: 1a9030fbca47a5b2c28e92f19050bb77824b5ad1
-    accessTokenUri: https://github.com/login/oauth/access_token
+    clientId: 1x    clientSecret: 12341    accessTokenUri: https://github.com/login/oauth/access_token
     userAuthorizationUri: https://github.com/login/oauth/authorize
     clientAuthenticationScheme: form
   resource:
